@@ -4,7 +4,7 @@ const allDescr=document.querySelectorAll(".program-line__descr");
 contens.forEach((element)=>{
     const title=element.querySelector(".program-line__title");
     const descr = element.querySelector(".program-line__descr");
-    
+    // console.log()
     
    
     title.addEventListener("click",(event)=>{
