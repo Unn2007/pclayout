@@ -127,6 +127,7 @@ input {
     z-index: 1;
 }
 
+
 .main-display__header {
     max-width: 80rem;
     margin-bottom: 5rem;
@@ -566,7 +567,9 @@ progress::-moz-progress-value {
     display: none;
 }
 
+
 .modal__inner {
+    
     width: 66.3rem;
     padding: 9rem 9.5rem;
     background: #2C2C2C;
