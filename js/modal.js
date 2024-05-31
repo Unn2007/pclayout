@@ -21,7 +21,7 @@ const modalFunction = () => {
         buttonCloseRef.style.backgroundColor="transparent";
         buttonCloseRef.style.color="white";
         modalInner.style.position="relative";
-        console.log(modalInner)
+        
         buttonCloseRef.addEventListener("click",(event)=>{
            
            
